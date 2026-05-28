@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtereonnect",
+        "uuid": 1018368,
+        "checksum": "gkb06e"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
